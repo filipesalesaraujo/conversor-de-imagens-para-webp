@@ -1,6 +1,6 @@
 # Conversor de Imagens para WebP
 
-Este projeto é um script Python que converte imagens de vários formatos para o formato WebP. O script também remove imagens PNG após a conversão, mantendo apenas as imagens convertidas e as que já estão no formato WebP.
+Este projeto é um script Python que converte imagens de vários formatos para o formato WebP. O script também remove imagens antigas após a conversão, mantendo apenas as imagens convertidas e as que já estão no formato WebP.
 
 ## Funcionalidades
 
